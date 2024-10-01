@@ -1,3 +1,0 @@
-09/21/2024 01:08:09 - root - WARNING - This will get logged
-09/21/2024 01:16:37 - logger1 - DEBUG - This is a debug message for 1st logger
-09/21/2024 01:16:37 - logger2 - WARNING - This is a warning message for 2nd logger

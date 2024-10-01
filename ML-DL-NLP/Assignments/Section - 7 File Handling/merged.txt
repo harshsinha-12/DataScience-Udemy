@@ -1,5 +1,0 @@
-This is a new log entry.
-
-Hello
-World
-

@@ -1,0 +1,13 @@
+<h1>
+    Based on the marks you have {{ result }}
+</h1>
+
+{% if result >= 50 %}
+    <h2> You have passed the exam </h2>
+{% else %}
+    <h2> You have failed the exam </h2>
+{% endif %}
+
+// {{ result }} is a placeholder for the result that will be displayed on the page.
+// jinj2 is a templating engine for Python, it allows us to inject variables 
+// into our HTML templates.

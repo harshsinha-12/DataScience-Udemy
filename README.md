@@ -1,6 +1,6 @@
 # DataScience-Udemy
 
-This repo consists of all code for Data Science related courses of Krish Naik on Udemy
+This repo consists of all code for Data Science related courses on various platforms and at College.
 
 1. Data-Analytics- Contains some part of Data Analytics Course code
 2. ML - Contains Machine Learning Part of Complete ML/DL/NLP Course

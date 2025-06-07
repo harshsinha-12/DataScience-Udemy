@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-  stock-predictor:
+  stock-predictor-flask:
     build: .
     ports:
       - "5001:5001"
